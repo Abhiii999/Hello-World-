@@ -16,6 +16,6 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 >This problem was asked by Uber.
 
-- [x] Follow-up: what if you can't use division?
+- [ ] Follow-up: what if you can't use division?
 - [ ] testcases
 
